@@ -27,6 +27,75 @@ h1{
     columns: rgb(98, 8, 8) ;
     font-weight: 600;
 }
-#name{
+.name{
     color: blueviolet;
 }
+#mission{
+    text-align: center;
+    margin-top: 100px;
+
+}
+#year{
+    color: rgb(163, 29, 240);
+}
+/* first part design complete
+ */
+ .second{
+    display: flex;
+ }
+ #fir-part{
+   
+    width: 40%;
+    margin:5%; 
+    padding: 5%;
+    background-color: rgb(186, 169, 183);
+    border-radius: 20px;
+ }
+ #sec-part{
+    width: 40%;
+     margin:5%;
+    padding: 5%; 
+    background-color: rgb(177, 191, 186);
+    border-radius: 20px;
+ }
+ #thi-part{
+    width: 40%;
+    margin: 5%; 
+    padding: 5%;
+    background-color: hwb(51 68% 27%);
+    border-radius: 20px;
+ }
+ /* 2nd part is done */
+ .last-part{
+    display: flex;
+ }
+  .third{
+    width: 68%;
+    /* margin: 2%; */
+    padding-left: 8%;
+    padding-top: 100px;
+ } 
+ #lst{
+    width:60% ;
+    margin-right: 10%;
+    padding-right: 10%;
+    padding-top: 80px;
+ }
+ /* 3rd part */
+ .final{
+    display: flex;
+ }
+ .text{
+    margin-right: 10%;
+    margin-top:30px ;
+ }
+ .foot{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 40px;
+ }
+ footer h2{
+    font-family: cursive;
+    font-size: 20px;
+ }
